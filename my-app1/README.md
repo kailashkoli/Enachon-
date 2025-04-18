@@ -1,3 +1,6 @@
+Video Explaination
+https://app.usebubbles.com/3ngx8EaXGoE2Upyt4Np2yU
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
